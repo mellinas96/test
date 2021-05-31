@@ -2,7 +2,7 @@
 Web Full Stack test for EarthPulse
 
 I've studied an introduction for NextJS and used it as a reference for the test.
-The two scripts that are used are `index.js` and `posts/formulario`.
+The two scripts being used are `index.js` and `posts/formulario`.
 
 The first one is a main page that can redirect to the second one, with a user name and password input.
 
